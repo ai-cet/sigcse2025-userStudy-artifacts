@@ -1,0 +1,1184 @@
+code_id,question_num,toolName,key,feedbackIndex,value
+10090983,1,AI-Default,speed,,1
+10090983,1,AI-Default,line,1,1
+10090983,1,AI-Default,line,2,1
+10090983,1,AI-Default,accurate,,1
+10090983,1,AI-Default,line,4,1
+10090983,1,AI-Default,helpful,,1
+10090983,1,AI-Default,line,6,1
+10090983,1,AI-Default,line,7,1
+10090983,1,AI-Default,line,8,1
+10090983,1,AI-Default,line,9,1
+10090983,1,AI-Default,line,10,1
+10090983,1,AI-Default,line,3,1
+10090983,1,AI-Default,line,5,1
+10090658,1,AI-Default,accurate,,1
+10090658,1,AI-Default,line,1,1
+10090658,1,AI-Default,line,2,1
+10090658,1,AI-Default,line,3,1
+10090658,1,AI-Default,line,4,1
+10090658,1,AI-Default,helpful,,1
+10090658,1,AI-Default,line,6,1
+10090658,1,AI-Default,line,7,1
+10090658,1,AI-Default,line,8,1
+10090658,1,AI-Default,speed,,1
+10090658,1,AI-Default,line,10,1
+10090658,1,AI-Default,line,11,1
+10090658,1,AI-Default,line,12,1
+10090658,1,AI-Default,line,13,1
+10090658,1,AI-Default,line,14,1
+10090658,1,AI-Default,line,15,1
+10090658,1,AI-Default,line,16,1
+10090658,1,AI-Default,line,5,1
+10090658,1,AI-Default,line,9,1
+10057926,2,TA (Manual),line,1,1
+10057926,2,TA (Manual),speed,,0
+10057926,2,TA (Manual),accurate,,0
+10057926,2,TA (Manual),helpful,,0
+10071618,2,TA (Manual),accurate,,1
+10071618,2,TA (Manual),speed,,1
+10071618,2,TA (Manual),helpful,,1
+10071618,2,TA (Manual),line,1,1
+10090221,1,AI-Default,accurate,,1
+10090221,1,AI-Default,helpful,,1
+10090221,1,AI-Default,speed,,1
+10090221,1,AI-Default,line,3,1
+10090221,1,AI-Default,line,4,1
+10090221,1,AI-Default,line,5,1
+10090221,1,AI-Default,line,1,1
+10090221,1,AI-Default,line,2,0
+10089705,1,AI-Default,accurate,,1
+10089705,1,AI-Default,helpful,,1
+10089705,1,AI-Default,line,2,1
+10089705,1,AI-Default,line,3,1
+10089705,1,AI-Default,speed,,1
+10089705,1,AI-Default,line,1,1
+10083698,2,TA (Manual),accurate,,1
+10083698,2,TA (Manual),line,1,1
+10083698,2,TA (Manual),helpful,,1
+10083698,2,TA (Manual),speed,,1
+10083026,2,TA (AI-Socrates),accurate,,1
+10083026,2,TA (AI-Socrates),helpful,,1
+10083026,2,TA (AI-Socrates),speed,,1
+10083026,2,TA (AI-Socrates),line,1,1
+10083026,2,TA (AI-Socrates),line,2,1
+10083026,2,TA (AI-Socrates),line,3,0
+10085824,2,TA (AI-Default),accurate,,1
+10085824,2,TA (AI-Default),helpful,,0
+10085824,2,TA (AI-Default),speed,,1
+10085824,2,TA (AI-Default),line,1,1
+10085824,2,TA (AI-Default),line,5,1
+10085824,2,TA (AI-Default),line,4,0
+10085824,2,TA (AI-Default),line,2,0
+10085824,2,TA (AI-Default),line,3,1
+10086876,1,AI-Default,accurate,,1
+10086876,1,AI-Default,helpful,,1
+10086876,1,AI-Default,speed,,1
+10086876,1,AI-Default,line,2,1
+10086876,1,AI-Default,line,1,1
+10086876,1,AI-Default,line,5,1
+10086876,1,AI-Default,line,6,1
+10086876,1,AI-Default,line,3,1
+10086876,1,AI-Default,line,4,1
+10086234,1,AI-Socrates,accurate,,1
+10086234,1,AI-Socrates,line,1,1
+10086234,1,AI-Socrates,line,2,0
+10086234,1,AI-Socrates,line,3,0
+10086234,1,AI-Socrates,line,4,1
+10086234,1,AI-Socrates,line,5,1
+10086234,1,AI-Socrates,line,6,1
+10086234,1,AI-Socrates,helpful,,1
+10086234,1,AI-Socrates,speed,,1
+10086137,1,AI-Default,accurate,,1
+10086137,1,AI-Default,helpful,,1
+10086137,1,AI-Default,speed,,1
+10086137,1,AI-Default,line,2,1
+10086137,1,AI-Default,line,1,1
+10086137,1,AI-Default,line,3,1
+10084778,1,AI-Socrates,accurate,,1
+10084778,1,AI-Socrates,helpful,,1
+10084778,1,AI-Socrates,speed,,1
+10084778,1,AI-Socrates,line,1,0
+10084778,1,AI-Socrates,line,2,0
+10084778,1,AI-Socrates,line,3,0
+10084778,1,AI-Socrates,line,4,0
+10084778,1,AI-Socrates,line,5,0
+10084778,1,AI-Socrates,line,6,0
+10084778,1,AI-Socrates,line,7,0
+10084778,1,AI-Socrates,line,8,0
+10084778,1,AI-Socrates,line,9,0
+10084778,1,AI-Socrates,line,10,0
+10084778,1,AI-Socrates,line,11,0
+10084778,1,AI-Socrates,line,12,0
+10084778,1,AI-Socrates,line,13,0
+10085741,1,AI-Default,speed,,1
+10085741,1,AI-Default,line,1,1
+10085741,1,AI-Default,helpful,,1
+10085741,1,AI-Default,accurate,,1
+10085741,1,AI-Default,line,4,1
+10085741,1,AI-Default,line,5,1
+10085741,1,AI-Default,line,6,1
+10085741,1,AI-Default,line,7,1
+10085741,1,AI-Default,line,8,1
+10085741,1,AI-Default,line,2,1
+10085741,1,AI-Default,line,3,1
+10085741,1,AI-Default,line,11,1
+10085741,1,AI-Default,line,12,1
+10085741,1,AI-Default,line,13,0
+10085741,1,AI-Default,line,14,0
+10085741,1,AI-Default,line,15,1
+10085741,1,AI-Default,line,16,1
+10085741,1,AI-Default,line,17,1
+10085741,1,AI-Default,line,18,1
+10085741,1,AI-Default,line,19,1
+10085741,1,AI-Default,line,20,1
+10085741,1,AI-Default,line,21,1
+10085741,1,AI-Default,line,22,1
+10085741,1,AI-Default,line,23,1
+10085741,1,AI-Default,line,24,1
+10085741,1,AI-Default,line,25,1
+10085741,1,AI-Default,line,26,1
+10085741,1,AI-Default,line,27,1
+10085741,1,AI-Default,line,28,1
+10085741,1,AI-Default,line,29,0
+10085741,1,AI-Default,line,9,1
+10085741,1,AI-Default,line,10,1
+10085741,1,AI-Default,line,31,1
+10085741,1,AI-Default,line,32,1
+10085741,1,AI-Default,line,33,1
+10085741,1,AI-Default,line,34,1
+10085741,1,AI-Default,line,35,1
+10085741,1,AI-Default,line,36,1
+10085741,1,AI-Default,line,37,1
+10085741,1,AI-Default,line,38,1
+10085741,1,AI-Default,line,39,1
+10085741,1,AI-Default,line,40,1
+10085741,1,AI-Default,line,30,1
+10082813,2,TA (AI-Default),accurate,,1
+10082813,2,TA (AI-Default),helpful,,1
+10082813,2,TA (AI-Default),speed,,1
+10082813,2,TA (AI-Default),line,1,1
+10082813,2,TA (AI-Default),line,3,1
+10082813,2,TA (AI-Default),line,2,1
+10082813,2,TA (AI-Default),line,4,1
+10082813,2,TA (AI-Default),line,5,1
+10082813,2,TA (AI-Default),line,6,1
+10082813,2,TA (AI-Default),line,7,1
+10082676,2,TA (Manual),accurate,,1
+10082676,2,TA (Manual),helpful,,1
+10082676,2,TA (Manual),speed,,1
+10082676,2,TA (Manual),line,1,1
+10052747,2,TA (AI-Socrates),accurate,,1
+10052747,2,TA (AI-Socrates),helpful,,1
+10052747,2,TA (AI-Socrates),speed,,1
+10052747,2,TA (AI-Socrates),line,2,0
+10052747,2,TA (AI-Socrates),line,1,0
+10052747,2,TA (AI-Socrates),line,3,0
+10052747,2,TA (AI-Socrates),line,4,0
+10052747,2,TA (AI-Socrates),line,5,0
+10052747,2,TA (AI-Socrates),line,6,0
+10052747,2,TA (AI-Socrates),line,7,0
+10052747,2,TA (AI-Socrates),line,8,0
+10052747,2,TA (AI-Socrates),line,9,0
+10052747,2,TA (AI-Socrates),line,10,0
+10085066,1,AI-Default,accurate,,1
+10085066,1,AI-Default,helpful,,1
+10085066,1,AI-Default,line,2,1
+10085066,1,AI-Default,line,3,1
+10085066,1,AI-Default,line,4,1
+10085066,1,AI-Default,line,5,1
+10085066,1,AI-Default,speed,,1
+10085066,1,AI-Default,line,1,1
+10084720,1,AI-Default,accurate,,1
+10084720,1,AI-Default,helpful,,1
+10084720,1,AI-Default,speed,,1
+10084720,1,AI-Default,line,1,1
+10084720,1,AI-Default,line,4,1
+10084720,1,AI-Default,line,5,1
+10084720,1,AI-Default,line,6,1
+10084720,1,AI-Default,line,7,1
+10084720,1,AI-Default,line,2,1
+10084720,1,AI-Default,line,3,1
+10084498,1,AI-Default,accurate,,1
+10084498,1,AI-Default,helpful,,1
+10084498,1,AI-Default,speed,,1
+10084498,1,AI-Default,line,2,1
+10084498,1,AI-Default,line,1,1
+10083394,1,AI-Socrates,helpful,,1
+10083394,1,AI-Socrates,accurate,,1
+10083394,1,AI-Socrates,line,2,1
+10083394,1,AI-Socrates,line,1,1
+10083394,1,AI-Socrates,speed,,1
+10083394,1,AI-Socrates,line,5,1
+10083394,1,AI-Socrates,line,6,1
+10083394,1,AI-Socrates,line,7,1
+10083394,1,AI-Socrates,line,8,1
+10083394,1,AI-Socrates,line,9,1
+10083394,1,AI-Socrates,line,10,1
+10083394,1,AI-Socrates,line,3,1
+10083394,1,AI-Socrates,line,4,1
+10073583,2,TA (AI-Socrates),helpful,,1
+10073583,2,TA (AI-Socrates),accurate,,1
+10073583,2,TA (AI-Socrates),line,2,1
+10073583,2,TA (AI-Socrates),line,4,1
+10073583,2,TA (AI-Socrates),line,1,1
+10073583,2,TA (AI-Socrates),line,3,1
+10073583,2,TA (AI-Socrates),speed,,1
+10073583,2,TA (AI-Socrates),line,7,1
+10073583,2,TA (AI-Socrates),line,8,1
+10073583,2,TA (AI-Socrates),line,9,1
+10073583,2,TA (AI-Socrates),line,10,1
+10073583,2,TA (AI-Socrates),line,11,1
+10073583,2,TA (AI-Socrates),line,5,1
+10073583,2,TA (AI-Socrates),line,6,1
+10081259,2,TA (AI-Default),speed,,1
+10081259,2,TA (AI-Default),line,1,1
+10081259,2,TA (AI-Default),line,2,1
+10081259,2,TA (AI-Default),accurate,,1
+10081259,2,TA (AI-Default),helpful,,1
+10081259,2,TA (AI-Default),line,5,1
+10081259,2,TA (AI-Default),line,6,1
+10081259,2,TA (AI-Default),line,7,1
+10081259,2,TA (AI-Default),line,3,1
+10081259,2,TA (AI-Default),line,4,1
+10078640,2,TA (AI-Socrates),accurate,,0
+10078640,2,TA (AI-Socrates),helpful,,0
+10078640,2,TA (AI-Socrates),speed,,1
+10078640,2,TA (AI-Socrates),line,1,0
+10078640,2,TA (AI-Socrates),line,2,0
+10078640,2,TA (AI-Socrates),line,3,0
+10078640,2,TA (AI-Socrates),line,4,0
+10082642,1,AI-Socrates,accurate,,1
+10082642,1,AI-Socrates,line,1,0
+10082642,1,AI-Socrates,line,2,1
+10082642,1,AI-Socrates,line,4,1
+10082642,1,AI-Socrates,line,3,1
+10082642,1,AI-Socrates,helpful,,1
+10082642,1,AI-Socrates,line,6,1
+10082642,1,AI-Socrates,line,7,1
+10082642,1,AI-Socrates,line,8,1
+10082642,1,AI-Socrates,line,9,1
+10082642,1,AI-Socrates,speed,,1
+10082642,1,AI-Socrates,line,11,1
+10082642,1,AI-Socrates,line,12,1
+10082642,1,AI-Socrates,line,13,1
+10082642,1,AI-Socrates,line,14,1
+10082642,1,AI-Socrates,line,15,1
+10082642,1,AI-Socrates,line,16,1
+10082642,1,AI-Socrates,line,17,1
+10082642,1,AI-Socrates,line,5,1
+10082642,1,AI-Socrates,line,10,1
+10081053,2,TA (Manual),accurate,,1
+10081053,2,TA (Manual),helpful,,1
+10081053,2,TA (Manual),speed,,1
+10081053,2,TA (Manual),line,1,1
+10082190,1,AI-Default,accurate,,1
+10082190,1,AI-Default,helpful,,1
+10082190,1,AI-Default,speed,,1
+10082190,1,AI-Default,line,1,1
+10082190,1,AI-Default,line,2,1
+10082190,1,AI-Default,line,3,1
+10082190,1,AI-Default,line,4,1
+10080056,2,TA (AI-Socrates),accurate,,1
+10080056,2,TA (AI-Socrates),line,1,1
+10080056,2,TA (AI-Socrates),line,2,1
+10080056,2,TA (AI-Socrates),line,3,1
+10080056,2,TA (AI-Socrates),line,4,1
+10080056,2,TA (AI-Socrates),line,5,1
+10080056,2,TA (AI-Socrates),line,6,1
+10080056,2,TA (AI-Socrates),helpful,,1
+10080056,2,TA (AI-Socrates),speed,,1
+10081247,1,AI-Default,accurate,,0
+10081247,1,AI-Default,helpful,,0
+10081247,1,AI-Default,speed,,0
+10081247,1,AI-Default,line,1,0
+10081247,1,AI-Default,line,2,0
+10081247,1,AI-Default,line,5,0
+10081247,1,AI-Default,line,3,0
+10081247,1,AI-Default,line,4,0
+10080919,1,AI-Socrates,accurate,,0
+10080919,1,AI-Socrates,helpful,,1
+10080919,1,AI-Socrates,speed,,1
+10080919,1,AI-Socrates,line,3,1
+10080919,1,AI-Socrates,line,4,1
+10080919,1,AI-Socrates,line,5,1
+10080919,1,AI-Socrates,line,6,1
+10080919,1,AI-Socrates,line,7,1
+10080919,1,AI-Socrates,line,8,1
+10080919,1,AI-Socrates,line,9,0
+10080919,1,AI-Socrates,line,1,0
+10080919,1,AI-Socrates,line,2,1
+10080451,1,AI-Socrates,accurate,,1
+10080451,1,AI-Socrates,helpful,,1
+10080451,1,AI-Socrates,speed,,1
+10080451,1,AI-Socrates,line,1,1
+10080451,1,AI-Socrates,line,2,1
+10080451,1,AI-Socrates,line,3,1
+10080451,1,AI-Socrates,line,4,1
+10080451,1,AI-Socrates,line,5,1
+10080451,1,AI-Socrates,line,6,1
+10080451,1,AI-Socrates,line,7,1
+10080451,1,AI-Socrates,line,8,1
+10079815,1,AI-Default,accurate,,0
+10079815,1,AI-Default,helpful,,0
+10079815,1,AI-Default,line,2,0
+10079815,1,AI-Default,line,3,0
+10079815,1,AI-Default,line,4,0
+10079815,1,AI-Default,line,5,0
+10079815,1,AI-Default,line,6,0
+10079815,1,AI-Default,line,7,1
+10079815,1,AI-Default,speed,,1
+10079815,1,AI-Default,line,1,1
+10077882,2,TA (AI-Default),accurate,,1
+10077882,2,TA (AI-Default),helpful,,1
+10077882,2,TA (AI-Default),speed,,1
+10077882,2,TA (AI-Default),line,3,1
+10077882,2,TA (AI-Default),line,4,1
+10077882,2,TA (AI-Default),line,5,1
+10077882,2,TA (AI-Default),line,6,1
+10077882,2,TA (AI-Default),line,7,1
+10077882,2,TA (AI-Default),line,8,1
+10077882,2,TA (AI-Default),line,9,1
+10077882,2,TA (AI-Default),line,10,1
+10077882,2,TA (AI-Default),line,11,1
+10077882,2,TA (AI-Default),line,12,1
+10077882,2,TA (AI-Default),line,13,1
+10077882,2,TA (AI-Default),line,1,1
+10077882,2,TA (AI-Default),line,2,1
+10079655,1,AI-Default,accurate,,1
+10079655,1,AI-Default,helpful,,1
+10079655,1,AI-Default,speed,,1
+10079655,1,AI-Default,line,1,1
+10079655,1,AI-Default,line,2,1
+10079655,1,AI-Default,line,3,1
+10079655,1,AI-Default,line,4,1
+10079655,1,AI-Default,line,5,1
+10079655,1,AI-Default,line,6,1
+10071134,2,TA (Manual),accurate,,1
+10071134,2,TA (Manual),line,1,0
+10071134,2,TA (Manual),helpful,,0
+10071134,2,TA (Manual),speed,,1
+10079449,1,AI-Socrates,accurate,,0
+10079449,1,AI-Socrates,speed,,1
+10079449,1,AI-Socrates,line,1,0
+10079449,1,AI-Socrates,helpful,,0
+10079449,1,AI-Socrates,line,4,0
+10079449,1,AI-Socrates,line,5,0
+10079449,1,AI-Socrates,line,6,0
+10079449,1,AI-Socrates,line,7,0
+10079449,1,AI-Socrates,line,8,0
+10079449,1,AI-Socrates,line,9,0
+10079449,1,AI-Socrates,line,10,0
+10079449,1,AI-Socrates,line,2,1
+10079449,1,AI-Socrates,line,3,0
+10079449,1,AI-Socrates,line,11,0
+10068557,2,TA (AI-Socrates),accurate,,1
+10068557,2,TA (AI-Socrates),helpful,,1
+10068557,2,TA (AI-Socrates),speed,,1
+10068557,2,TA (AI-Socrates),line,1,1
+10068557,2,TA (AI-Socrates),line,2,1
+10068557,2,TA (AI-Socrates),line,3,1
+10068557,2,TA (AI-Socrates),line,4,1
+10068557,2,TA (AI-Socrates),line,5,1
+10071885,2,TA (Manual),accurate,,1
+10071885,2,TA (Manual),helpful,,1
+10071885,2,TA (Manual),speed,,1
+10071885,2,TA (Manual),line,1,1
+10078590,1,AI-Default,accurate,,0
+10078590,1,AI-Default,helpful,,0
+10078590,1,AI-Default,speed,,0
+10078590,1,AI-Default,line,1,0
+10078590,1,AI-Default,line,2,0
+10078590,1,AI-Default,line,3,0
+10078590,1,AI-Default,line,4,0
+10078590,1,AI-Default,line,5,0
+10078590,1,AI-Default,line,6,0
+10078590,1,AI-Default,line,7,0
+10063292,1,AI-Default,accurate,,1
+10063292,1,AI-Default,line,1,0
+10063292,1,AI-Default,line,2,1
+10063292,1,AI-Default,line,3,1
+10063292,1,AI-Default,line,4,1
+10063292,1,AI-Default,line,5,1
+10063292,1,AI-Default,helpful,,1
+10063292,1,AI-Default,speed,,1
+10078341,1,AI-Socrates,accurate,,1
+10078341,1,AI-Socrates,line,1,1
+10078341,1,AI-Socrates,speed,,1
+10078341,1,AI-Socrates,line,4,1
+10078341,1,AI-Socrates,helpful,,1
+10078341,1,AI-Socrates,line,5,1
+10078341,1,AI-Socrates,line,6,1
+10078341,1,AI-Socrates,line,2,1
+10078341,1,AI-Socrates,line,3,1
+10078040,1,AI-Socrates,accurate,,0
+10078040,1,AI-Socrates,helpful,,0
+10078040,1,AI-Socrates,speed,,1
+10078040,1,AI-Socrates,line,3,0
+10078040,1,AI-Socrates,line,4,0
+10078040,1,AI-Socrates,line,5,0
+10078040,1,AI-Socrates,line,6,0
+10078040,1,AI-Socrates,line,7,0
+10078040,1,AI-Socrates,line,8,0
+10078040,1,AI-Socrates,line,1,0
+10078040,1,AI-Socrates,line,2,0
+10065876,1,AI-Default,accurate,,1
+10065876,1,AI-Default,helpful,,1
+10065876,1,AI-Default,speed,,0
+10065876,1,AI-Default,line,1,1
+10065876,1,AI-Default,line,2,1
+10065876,1,AI-Default,line,3,0
+10065876,1,AI-Default,line,4,1
+10065876,1,AI-Default,line,5,1
+10077065,1,AI-Default,accurate,,1
+10077065,1,AI-Default,helpful,,1
+10077065,1,AI-Default,speed,,1
+10077065,1,AI-Default,line,1,1
+10077065,1,AI-Default,line,2,1
+10077065,1,AI-Default,line,3,1
+10077065,1,AI-Default,line,4,1
+10077065,1,AI-Default,line,5,1
+10077065,1,AI-Default,line,7,1
+10077065,1,AI-Default,line,8,1
+10077065,1,AI-Default,line,9,0
+10077065,1,AI-Default,line,6,1
+10061542,2,TA (AI-Socrates),accurate,,0
+10061542,2,TA (AI-Socrates),line,1,1
+10061542,2,TA (AI-Socrates),line,2,1
+10061542,2,TA (AI-Socrates),line,3,1
+10061542,2,TA (AI-Socrates),line,4,1
+10061542,2,TA (AI-Socrates),line,5,1
+10061542,2,TA (AI-Socrates),line,6,0
+10061542,2,TA (AI-Socrates),line,7,0
+10061542,2,TA (AI-Socrates),helpful,,1
+10061542,2,TA (AI-Socrates),speed,,0
+10061542,2,TA (AI-Socrates),line,10,0
+10061542,2,TA (AI-Socrates),line,11,0
+10061542,2,TA (AI-Socrates),line,12,1
+10061542,2,TA (AI-Socrates),line,13,1
+10061542,2,TA (AI-Socrates),line,8,0
+10061542,2,TA (AI-Socrates),line,9,0
+10076536,1,AI-Socrates,accurate,,1
+10076536,1,AI-Socrates,helpful,,1
+10076536,1,AI-Socrates,speed,,1
+10076536,1,AI-Socrates,line,1,1
+10076536,1,AI-Socrates,line,2,1
+10076536,1,AI-Socrates,line,5,1
+10076536,1,AI-Socrates,line,3,1
+10076536,1,AI-Socrates,line,4,1
+10076536,1,AI-Socrates,line,6,1
+10076536,1,AI-Socrates,line,7,1
+10074463,2,TA (Manual),accurate,,1
+10074463,2,TA (Manual),helpful,,1
+10074463,2,TA (Manual),speed,,1
+10074463,2,TA (Manual),line,1,1
+10072090,1,AI-Socrates,accurate,,1
+10072090,1,AI-Socrates,speed,,1
+10072090,1,AI-Socrates,helpful,,1
+10072090,1,AI-Socrates,line,2,1
+10072090,1,AI-Socrates,line,1,1
+10072090,1,AI-Socrates,line,5,1
+10072090,1,AI-Socrates,line,6,1
+10072090,1,AI-Socrates,line,7,1
+10072090,1,AI-Socrates,line,8,1
+10072090,1,AI-Socrates,line,3,1
+10072090,1,AI-Socrates,line,4,1
+10075654,1,AI-Socrates,accurate,,0
+10075654,1,AI-Socrates,helpful,,0
+10075654,1,AI-Socrates,speed,,1
+10075654,1,AI-Socrates,line,1,0
+10075654,1,AI-Socrates,line,2,0
+10075654,1,AI-Socrates,line,5,0
+10075654,1,AI-Socrates,line,6,0
+10075654,1,AI-Socrates,line,7,0
+10075654,1,AI-Socrates,line,8,0
+10075654,1,AI-Socrates,line,9,0
+10075654,1,AI-Socrates,line,11,0
+10075654,1,AI-Socrates,line,12,0
+10075654,1,AI-Socrates,line,13,0
+10075654,1,AI-Socrates,line,10,0
+10075654,1,AI-Socrates,line,14,0
+10075654,1,AI-Socrates,line,15,0
+10075654,1,AI-Socrates,line,16,0
+10075654,1,AI-Socrates,line,17,0
+10075654,1,AI-Socrates,line,18,0
+10075654,1,AI-Socrates,line,3,0
+10075654,1,AI-Socrates,line,4,0
+10075654,1,AI-Socrates,line,19,0
+10075563,1,AI-Socrates,accurate,,1
+10075563,1,AI-Socrates,helpful,,0
+10075563,1,AI-Socrates,speed,,0
+10075563,1,AI-Socrates,line,3,1
+10075563,1,AI-Socrates,line,4,1
+10075563,1,AI-Socrates,line,5,1
+10075563,1,AI-Socrates,line,6,1
+10075563,1,AI-Socrates,line,1,1
+10075563,1,AI-Socrates,line,2,1
+10075043,1,AI-Default,accurate,,0
+10075043,1,AI-Default,helpful,,0
+10075043,1,AI-Default,speed,,1
+10075043,1,AI-Default,line,1,1
+10075043,1,AI-Default,line,2,0
+10075043,1,AI-Default,line,4,1
+10075043,1,AI-Default,line,3,1
+10075043,1,AI-Default,line,5,1
+10073137,2,TA (Manual),accurate,,1
+10073137,2,TA (Manual),helpful,,0
+10073137,2,TA (Manual),speed,,0
+10073137,2,TA (Manual),line,1,1
+10073088,1,AI-Socrates,accurate,,1
+10073088,1,AI-Socrates,line,1,1
+10073088,1,AI-Socrates,line,2,1
+10073088,1,AI-Socrates,line,3,1
+10073088,1,AI-Socrates,line,4,1
+10073088,1,AI-Socrates,line,5,1
+10073088,1,AI-Socrates,line,6,1
+10073088,1,AI-Socrates,helpful,,1
+10073088,1,AI-Socrates,speed,,1
+10073088,1,AI-Socrates,line,7,1
+10073088,1,AI-Socrates,line,8,1
+10073703,1,AI-Default,accurate,,1
+10073703,1,AI-Default,helpful,,0
+10073703,1,AI-Default,speed,,0
+10073703,1,AI-Default,line,1,1
+10073703,1,AI-Default,line,2,1
+10073703,1,AI-Default,line,3,0
+10073703,1,AI-Default,line,4,0
+10067491,2,TA (AI-Socrates),accurate,,1
+10067491,2,TA (AI-Socrates),helpful,,1
+10067491,2,TA (AI-Socrates),speed,,1
+10067491,2,TA (AI-Socrates),line,1,1
+10067491,2,TA (AI-Socrates),line,2,1
+10067491,2,TA (AI-Socrates),line,3,1
+10067491,2,TA (AI-Socrates),line,4,1
+10067491,2,TA (AI-Socrates),line,5,1
+10067491,2,TA (AI-Socrates),line,6,1
+10058163,2,TA (AI-Socrates),accurate,,0
+10058163,2,TA (AI-Socrates),helpful,,0
+10058163,2,TA (AI-Socrates),speed,,0
+10058163,2,TA (AI-Socrates),line,1,0
+10058163,2,TA (AI-Socrates),line,3,1
+10058163,2,TA (AI-Socrates),line,2,0
+10058163,2,TA (AI-Socrates),line,4,0
+10073368,1,AI-Socrates,accurate,,1
+10073368,1,AI-Socrates,line,1,1
+10073368,1,AI-Socrates,line,2,1
+10073368,1,AI-Socrates,line,3,1
+10073368,1,AI-Socrates,line,4,1
+10073368,1,AI-Socrates,line,5,1
+10073368,1,AI-Socrates,line,6,1
+10073368,1,AI-Socrates,helpful,,1
+10073368,1,AI-Socrates,speed,,1
+10073368,1,AI-Socrates,line,9,1
+10073368,1,AI-Socrates,line,7,1
+10073368,1,AI-Socrates,line,8,1
+10071518,2,TA (Manual),accurate,,1
+10071518,2,TA (Manual),helpful,,1
+10071518,2,TA (Manual),speed,,1
+10071518,2,TA (Manual),line,1,1
+10072231,1,AI-Default,accurate,,1
+10072231,1,AI-Default,helpful,,1
+10072231,1,AI-Default,speed,,1
+10072231,1,AI-Default,line,1,1
+10072231,1,AI-Default,line,2,1
+10072231,1,AI-Default,line,3,1
+10072231,1,AI-Default,line,4,1
+10071457,1,AI-Socrates,accurate,,1
+10071457,1,AI-Socrates,helpful,,1
+10071457,1,AI-Socrates,speed,,1
+10071457,1,AI-Socrates,line,1,1
+10071457,1,AI-Socrates,line,2,1
+10071457,1,AI-Socrates,line,5,1
+10071457,1,AI-Socrates,line,6,1
+10071457,1,AI-Socrates,line,4,1
+10071457,1,AI-Socrates,line,3,1
+10071239,1,AI-Default,accurate,,0
+10071239,1,AI-Default,helpful,,1
+10071239,1,AI-Default,speed,,1
+10071239,1,AI-Default,line,3,1
+10071239,1,AI-Default,line,4,0
+10071239,1,AI-Default,line,5,0
+10071239,1,AI-Default,line,6,1
+10071239,1,AI-Default,line,7,1
+10071239,1,AI-Default,line,1,1
+10071239,1,AI-Default,line,2,1
+10070593,1,AI-Default,accurate,,1
+10070593,1,AI-Default,helpful,,1
+10070593,1,AI-Default,speed,,1
+10070593,1,AI-Default,line,1,1
+10070593,1,AI-Default,line,2,1
+10070593,1,AI-Default,line,3,1
+10069535,2,TA (Manual),accurate,,1
+10069535,2,TA (Manual),helpful,,1
+10069535,2,TA (Manual),speed,,1
+10069535,2,TA (Manual),line,1,1
+10067915,2,TA (Manual),accurate,,1
+10067915,2,TA (Manual),helpful,,1
+10067915,2,TA (Manual),line,1,1
+10067915,2,TA (Manual),speed,,1
+10069926,1,AI-Socrates,speed,,1
+10069926,1,AI-Socrates,line,1,0
+10069926,1,AI-Socrates,line,2,0
+10069926,1,AI-Socrates,accurate,,1
+10069926,1,AI-Socrates,line,4,1
+10069926,1,AI-Socrates,helpful,,1
+10069926,1,AI-Socrates,line,6,1
+10069926,1,AI-Socrates,line,7,1
+10069926,1,AI-Socrates,line,3,1
+10069926,1,AI-Socrates,line,5,1
+10068376,2,TA (Manual),accurate,,0
+10068376,2,TA (Manual),helpful,,0
+10068376,2,TA (Manual),speed,,0
+10068376,2,TA (Manual),line,1,0
+10067401,2,TA (Manual),accurate,,0
+10067401,2,TA (Manual),helpful,,1
+10067401,2,TA (Manual),speed,,1
+10067401,2,TA (Manual),line,1,0
+10064541,2,TA (AI-Socrates),accurate,,1
+10064541,2,TA (AI-Socrates),helpful,,1
+10064541,2,TA (AI-Socrates),speed,,1
+10064541,2,TA (AI-Socrates),line,1,1
+10064541,2,TA (AI-Socrates),line,2,1
+10064541,2,TA (AI-Socrates),line,3,1
+10064541,2,TA (AI-Socrates),line,4,1
+10069112,1,AI-Default,accurate,,1
+10069112,1,AI-Default,helpful,,1
+10069112,1,AI-Default,speed,,1
+10069112,1,AI-Default,line,1,1
+10069112,1,AI-Default,line,2,1
+10069112,1,AI-Default,line,3,1
+10069112,1,AI-Default,line,4,1
+10067882,1,AI-Socrates,helpful,,1
+10067882,1,AI-Socrates,speed,,1
+10067882,1,AI-Socrates,line,3,1
+10067882,1,AI-Socrates,accurate,,1
+10067882,1,AI-Socrates,line,4,1
+10067882,1,AI-Socrates,line,5,1
+10067882,1,AI-Socrates,line,6,1
+10067882,1,AI-Socrates,line,7,1
+10067882,1,AI-Socrates,line,8,1
+10067882,1,AI-Socrates,line,1,1
+10067882,1,AI-Socrates,line,2,1
+10067406,1,AI-Default,accurate,,1
+10067406,1,AI-Default,helpful,,1
+10067406,1,AI-Default,speed,,1
+10067406,1,AI-Default,line,1,1
+10067406,1,AI-Default,line,2,1
+10067406,1,AI-Default,line,3,1
+10067599,1,AI-Default,accurate,,1
+10067599,1,AI-Default,helpful,,0
+10067599,1,AI-Default,line,2,1
+10067599,1,AI-Default,line,3,1
+10067599,1,AI-Default,line,4,1
+10067599,1,AI-Default,line,5,1
+10067599,1,AI-Default,line,6,1
+10067599,1,AI-Default,speed,,1
+10067599,1,AI-Default,line,1,1
+10067417,1,AI-Socrates,accurate,,0
+10067417,1,AI-Socrates,helpful,,0
+10067417,1,AI-Socrates,speed,,0
+10067417,1,AI-Socrates,line,1,1
+10067417,1,AI-Socrates,line,3,0
+10067417,1,AI-Socrates,line,2,0
+10067417,1,AI-Socrates,line,4,0
+10067417,1,AI-Socrates,line,5,0
+10067417,1,AI-Socrates,line,6,0
+10067417,1,AI-Socrates,line,7,0
+10067417,1,AI-Socrates,line,8,0
+10067417,1,AI-Socrates,line,9,0
+10066758,1,AI-Default,accurate,,0
+10066758,1,AI-Default,helpful,,0
+10066758,1,AI-Default,speed,,1
+10066758,1,AI-Default,line,1,0
+10066758,1,AI-Default,line,2,0
+10066758,1,AI-Default,line,3,0
+10066758,1,AI-Default,line,4,0
+10066758,1,AI-Default,line,7,0
+10066758,1,AI-Default,line,8,0
+10066758,1,AI-Default,line,9,0
+10066758,1,AI-Default,line,10,0
+10066758,1,AI-Default,line,11,0
+10066758,1,AI-Default,line,12,0
+10066758,1,AI-Default,line,13,0
+10066758,1,AI-Default,line,14,0
+10066758,1,AI-Default,line,15,0
+10066758,1,AI-Default,line,16,0
+10066758,1,AI-Default,line,17,0
+10066758,1,AI-Default,line,18,0
+10066758,1,AI-Default,line,19,0
+10066758,1,AI-Default,line,20,0
+10066758,1,AI-Default,line,21,0
+10066758,1,AI-Default,line,22,0
+10066758,1,AI-Default,line,5,0
+10066758,1,AI-Default,line,6,0
+10066444,1,AI-Default,accurate,,1
+10066444,1,AI-Default,helpful,,1
+10066444,1,AI-Default,speed,,1
+10066444,1,AI-Default,line,1,1
+10066444,1,AI-Default,line,2,1
+10064980,1,AI-Default,accurate,,1
+10064980,1,AI-Default,line,1,1
+10064980,1,AI-Default,line,2,1
+10064980,1,AI-Default,line,3,1
+10064980,1,AI-Default,line,4,1
+10064980,1,AI-Default,line,5,1
+10064980,1,AI-Default,line,6,1
+10064980,1,AI-Default,helpful,,1
+10064980,1,AI-Default,speed,,1
+10064980,1,AI-Default,line,9,1
+10064980,1,AI-Default,line,10,1
+10064980,1,AI-Default,line,11,1
+10064980,1,AI-Default,line,12,1
+10064980,1,AI-Default,line,13,1
+10064980,1,AI-Default,line,14,1
+10064980,1,AI-Default,line,15,1
+10064980,1,AI-Default,line,16,1
+10064980,1,AI-Default,line,17,1
+10064980,1,AI-Default,line,18,1
+10064980,1,AI-Default,line,19,1
+10064980,1,AI-Default,line,7,1
+10064980,1,AI-Default,line,8,1
+10065127,1,AI-Socrates,accurate,,0
+10065127,1,AI-Socrates,line,1,0
+10065127,1,AI-Socrates,line,2,0
+10065127,1,AI-Socrates,line,3,0
+10065127,1,AI-Socrates,line,4,0
+10065127,1,AI-Socrates,line,5,0
+10065127,1,AI-Socrates,line,6,0
+10065127,1,AI-Socrates,helpful,,0
+10065127,1,AI-Socrates,speed,,1
+10065127,1,AI-Socrates,line,7,0
+10064699,1,AI-Socrates,accurate,,1
+10064699,1,AI-Socrates,helpful,,1
+10064699,1,AI-Socrates,speed,,1
+10064699,1,AI-Socrates,line,1,1
+10064699,1,AI-Socrates,line,2,1
+10064699,1,AI-Socrates,line,3,1
+10064699,1,AI-Socrates,line,4,1
+10064699,1,AI-Socrates,line,5,1
+10064699,1,AI-Socrates,line,6,1
+10062031,2,TA (AI-Socrates),accurate,,1
+10062031,2,TA (AI-Socrates),helpful,,1
+10062031,2,TA (AI-Socrates),speed,,1
+10062031,2,TA (AI-Socrates),line,1,1
+10062031,2,TA (AI-Socrates),line,4,1
+10062031,2,TA (AI-Socrates),line,5,1
+10062031,2,TA (AI-Socrates),line,6,1
+10062031,2,TA (AI-Socrates),line,2,1
+10062031,2,TA (AI-Socrates),line,3,1
+10049060,2,TA (Manual),accurate,,1
+10049060,2,TA (Manual),helpful,,1
+10049060,2,TA (Manual),speed,,1
+10049060,2,TA (Manual),line,1,1
+10063571,1,AI-Socrates,accurate,,1
+10063571,1,AI-Socrates,helpful,,1
+10063571,1,AI-Socrates,speed,,1
+10063571,1,AI-Socrates,line,1,1
+10063571,1,AI-Socrates,line,2,1
+10063571,1,AI-Socrates,line,3,1
+10063571,1,AI-Socrates,line,4,0
+10063571,1,AI-Socrates,line,5,1
+10063571,1,AI-Socrates,line,7,0
+10063571,1,AI-Socrates,line,8,1
+10063571,1,AI-Socrates,line,9,1
+10063571,1,AI-Socrates,line,10,1
+10063571,1,AI-Socrates,line,6,1
+10063282,1,AI-Default,accurate,,1
+10063282,1,AI-Default,helpful,,1
+10063282,1,AI-Default,speed,,1
+10063282,1,AI-Default,line,1,1
+10063282,1,AI-Default,line,2,1
+10063282,1,AI-Default,line,3,1
+10063282,1,AI-Default,line,4,1
+10063282,1,AI-Default,line,5,0
+10063282,1,AI-Default,line,6,1
+10063282,1,AI-Default,line,7,1
+10063282,1,AI-Default,line,8,1
+10054434,1,AI-Default,helpful,,1
+10054434,1,AI-Default,accurate,,1
+10054434,1,AI-Default,speed,,1
+10054434,1,AI-Default,line,1,0
+10054434,1,AI-Default,line,2,1
+10062650,1,AI-Default,accurate,,1
+10062650,1,AI-Default,speed,,1
+10062650,1,AI-Default,helpful,,1
+10062650,1,AI-Default,line,1,1
+10062650,1,AI-Default,line,2,1
+10062650,1,AI-Default,line,3,1
+10062650,1,AI-Default,line,4,1
+10062650,1,AI-Default,line,7,1
+10062650,1,AI-Default,line,5,1
+10062650,1,AI-Default,line,6,1
+10062654,1,AI-Default,accurate,,1
+10062654,1,AI-Default,helpful,,1
+10062654,1,AI-Default,speed,,1
+10062654,1,AI-Default,line,1,1
+10062654,1,AI-Default,line,2,1
+10062448,1,AI-Socrates,accurate,,1
+10062448,1,AI-Socrates,helpful,,1
+10062448,1,AI-Socrates,line,1,1
+10062448,1,AI-Socrates,speed,,1
+10062448,1,AI-Socrates,line,2,1
+10062448,1,AI-Socrates,line,5,1
+10062448,1,AI-Socrates,line,3,1
+10062448,1,AI-Socrates,line,4,1
+10057935,1,AI-Socrates,accurate,,1
+10057935,1,AI-Socrates,helpful,,1
+10057935,1,AI-Socrates,speed,,1
+10057935,1,AI-Socrates,line,3,1
+10057935,1,AI-Socrates,line,4,1
+10057935,1,AI-Socrates,line,1,1
+10057935,1,AI-Socrates,line,2,1
+10060035,2,TA (AI-Socrates),accurate,,1
+10060035,2,TA (AI-Socrates),helpful,,1
+10060035,2,TA (AI-Socrates),speed,,1
+10060035,2,TA (AI-Socrates),line,1,1
+10060035,2,TA (AI-Socrates),line,2,1
+10060035,2,TA (AI-Socrates),line,3,1
+10060035,2,TA (AI-Socrates),line,4,1
+10060035,2,TA (AI-Socrates),line,7,1
+10060035,2,TA (AI-Socrates),line,5,1
+10060035,2,TA (AI-Socrates),line,6,1
+10061360,1,AI-Socrates,accurate,,1
+10061360,1,AI-Socrates,helpful,,0
+10061360,1,AI-Socrates,speed,,0
+10061360,1,AI-Socrates,line,1,1
+10061360,1,AI-Socrates,line,2,0
+10061360,1,AI-Socrates,line,5,0
+10061360,1,AI-Socrates,line,6,0
+10061360,1,AI-Socrates,line,7,0
+10061360,1,AI-Socrates,line,8,0
+10061360,1,AI-Socrates,line,9,0
+10061360,1,AI-Socrates,line,10,0
+10061360,1,AI-Socrates,line,3,0
+10061360,1,AI-Socrates,line,4,0
+10058849,2,TA (AI-Socrates),accurate,,0
+10058849,2,TA (AI-Socrates),helpful,,0
+10058849,2,TA (AI-Socrates),speed,,0
+10058849,2,TA (AI-Socrates),line,1,1
+10058849,2,TA (AI-Socrates),line,2,1
+10058849,2,TA (AI-Socrates),line,3,0
+10058849,2,TA (AI-Socrates),line,6,1
+10058849,2,TA (AI-Socrates),line,4,0
+10058849,2,TA (AI-Socrates),line,5,1
+10060590,1,AI-Default,accurate,,0
+10060590,1,AI-Default,helpful,,0
+10060590,1,AI-Default,speed,,1
+10060590,1,AI-Default,line,1,0
+10060590,1,AI-Default,line,2,0
+10060590,1,AI-Default,line,5,0
+10060590,1,AI-Default,line,6,0
+10060590,1,AI-Default,line,7,0
+10060590,1,AI-Default,line,8,0
+10060590,1,AI-Default,line,9,0
+10060590,1,AI-Default,line,10,0
+10060590,1,AI-Default,line,11,0
+10060590,1,AI-Default,line,12,0
+10060590,1,AI-Default,line,13,0
+10060590,1,AI-Default,line,14,1
+10060590,1,AI-Default,line,3,0
+10060590,1,AI-Default,line,4,0
+10060262,1,AI-Socrates,accurate,,1
+10060262,1,AI-Socrates,helpful,,1
+10060262,1,AI-Socrates,speed,,1
+10060262,1,AI-Socrates,line,2,1
+10060262,1,AI-Socrates,line,1,1
+10060262,1,AI-Socrates,line,4,1
+10060262,1,AI-Socrates,line,3,1
+10052629,1,AI-Socrates,accurate,,1
+10052629,1,AI-Socrates,helpful,,1
+10052629,1,AI-Socrates,speed,,1
+10052629,1,AI-Socrates,line,2,1
+10052629,1,AI-Socrates,line,1,1
+10052629,1,AI-Socrates,line,3,1
+10052629,1,AI-Socrates,line,4,1
+10052629,1,AI-Socrates,line,7,1
+10052629,1,AI-Socrates,line,5,1
+10052629,1,AI-Socrates,line,6,1
+10059951,1,AI-Default,accurate,,1
+10059951,1,AI-Default,line,1,1
+10059951,1,AI-Default,line,2,1
+10059951,1,AI-Default,line,3,1
+10059951,1,AI-Default,line,4,1
+10059951,1,AI-Default,line,5,1
+10059951,1,AI-Default,line,6,1
+10059951,1,AI-Default,helpful,,1
+10059951,1,AI-Default,speed,,1
+10059951,1,AI-Default,line,7,1
+10059951,1,AI-Default,line,8,1
+10059957,1,AI-Socrates,accurate,,1
+10059957,1,AI-Socrates,helpful,,1
+10059957,1,AI-Socrates,speed,,1
+10059957,1,AI-Socrates,line,1,1
+10059957,1,AI-Socrates,line,2,1
+10059957,1,AI-Socrates,line,3,1
+10059957,1,AI-Socrates,line,4,1
+10059957,1,AI-Socrates,line,5,1
+10059957,1,AI-Socrates,line,6,1
+10059957,1,AI-Socrates,line,7,1
+10059820,1,AI-Socrates,accurate,,1
+10059820,1,AI-Socrates,helpful,,1
+10059820,1,AI-Socrates,speed,,1
+10059820,1,AI-Socrates,line,1,1
+10059820,1,AI-Socrates,line,2,1
+10059820,1,AI-Socrates,line,5,1
+10059820,1,AI-Socrates,line,6,1
+10059820,1,AI-Socrates,line,7,1
+10059820,1,AI-Socrates,line,8,1
+10059820,1,AI-Socrates,line,9,1
+10059820,1,AI-Socrates,line,3,1
+10059820,1,AI-Socrates,line,4,1
+10059814,1,AI-Socrates,accurate,,0
+10059814,1,AI-Socrates,helpful,,0
+10059814,1,AI-Socrates,speed,,1
+10059814,1,AI-Socrates,line,1,0
+10059814,1,AI-Socrates,line,2,1
+10059814,1,AI-Socrates,line,3,1
+10059814,1,AI-Socrates,line,4,0
+10059814,1,AI-Socrates,line,5,1
+10059814,1,AI-Socrates,line,6,1
+10059690,1,AI-Default,accurate,,1
+10059690,1,AI-Default,line,1,1
+10059690,1,AI-Default,line,2,1
+10059690,1,AI-Default,line,3,1
+10059690,1,AI-Default,helpful,,1
+10059690,1,AI-Default,speed,,1
+10058730,1,AI-Socrates,accurate,,1
+10058730,1,AI-Socrates,speed,,1
+10058730,1,AI-Socrates,helpful,,1
+10058730,1,AI-Socrates,line,1,1
+10058730,1,AI-Socrates,line,4,1
+10058730,1,AI-Socrates,line,5,1
+10058730,1,AI-Socrates,line,6,1
+10058730,1,AI-Socrates,line,7,1
+10058730,1,AI-Socrates,line,8,1
+10058730,1,AI-Socrates,line,9,1
+10058730,1,AI-Socrates,line,10,1
+10058730,1,AI-Socrates,line,11,1
+10058730,1,AI-Socrates,line,2,1
+10058730,1,AI-Socrates,line,3,1
+10058712,1,AI-Socrates,accurate,,0
+10058712,1,AI-Socrates,helpful,,0
+10058712,1,AI-Socrates,speed,,1
+10058712,1,AI-Socrates,line,1,0
+10058712,1,AI-Socrates,line,2,0
+10058712,1,AI-Socrates,line,3,0
+10058712,1,AI-Socrates,line,4,0
+10058712,1,AI-Socrates,line,5,0
+10058712,1,AI-Socrates,line,6,0
+10058712,1,AI-Socrates,line,7,0
+10058498,1,AI-Socrates,accurate,,1
+10058498,1,AI-Socrates,line,1,1
+10058498,1,AI-Socrates,line,2,1
+10058498,1,AI-Socrates,line,3,1
+10058498,1,AI-Socrates,line,4,1
+10058498,1,AI-Socrates,line,5,1
+10058498,1,AI-Socrates,helpful,,1
+10058498,1,AI-Socrates,speed,,1
+10058219,1,AI-Socrates,accurate,,0
+10058219,1,AI-Socrates,speed,,1
+10058219,1,AI-Socrates,helpful,,0
+10058219,1,AI-Socrates,line,1,1
+10058219,1,AI-Socrates,line,2,0
+10058219,1,AI-Socrates,line,3,0
+10058219,1,AI-Socrates,line,4,0
+10058219,1,AI-Socrates,line,6,0
+10058219,1,AI-Socrates,line,5,0
+10057902,1,AI-Socrates,accurate,,1
+10057902,1,AI-Socrates,helpful,,1
+10057902,1,AI-Socrates,speed,,1
+10057902,1,AI-Socrates,line,1,1
+10057902,1,AI-Socrates,line,2,1
+10057902,1,AI-Socrates,line,5,0
+10057902,1,AI-Socrates,line,6,1
+10057902,1,AI-Socrates,line,3,1
+10057902,1,AI-Socrates,line,4,0
+10052668,1,AI-Socrates,accurate,,0
+10052668,1,AI-Socrates,helpful,,0
+10052668,1,AI-Socrates,speed,,0
+10052668,1,AI-Socrates,line,1,0
+10052668,1,AI-Socrates,line,2,0
+10057490,1,AI-Default,accurate,,1
+10057490,1,AI-Default,helpful,,1
+10057490,1,AI-Default,speed,,1
+10057490,1,AI-Default,line,1,1
+10057490,1,AI-Default,line,2,1
+10057490,1,AI-Default,line,3,1
+10057490,1,AI-Default,line,4,1
+10057490,1,AI-Default,line,5,1
+10057467,1,AI-Socrates,accurate,,1
+10057467,1,AI-Socrates,helpful,,1
+10057467,1,AI-Socrates,speed,,1
+10057467,1,AI-Socrates,line,1,1
+10057467,1,AI-Socrates,line,2,1
+10057467,1,AI-Socrates,line,3,1
+10056888,1,AI-Default,helpful,,1
+10056888,1,AI-Default,accurate,,1
+10056888,1,AI-Default,speed,,1
+10056888,1,AI-Default,line,1,1
+10056888,1,AI-Default,line,2,0
+10056888,1,AI-Default,line,3,0
+10056888,1,AI-Default,line,4,0
+10056888,1,AI-Default,line,5,0
+10056513,1,AI-Default,helpful,,1
+10056513,1,AI-Default,accurate,,1
+10056513,1,AI-Default,speed,,1
+10056513,1,AI-Default,line,1,1
+10056513,1,AI-Default,line,2,1
+10056513,1,AI-Default,line,3,1
+10055828,1,AI-Socrates,speed,,1
+10055828,1,AI-Socrates,line,1,0
+10055828,1,AI-Socrates,line,2,0
+10055828,1,AI-Socrates,accurate,,1
+10055828,1,AI-Socrates,line,4,1
+10055828,1,AI-Socrates,helpful,,0
+10055828,1,AI-Socrates,line,3,1
+10055828,1,AI-Socrates,line,5,1
+10055395,1,AI-Socrates,speed,,1
+10055395,1,AI-Socrates,line,3,0
+10055395,1,AI-Socrates,accurate,,0
+10055395,1,AI-Socrates,line,4,0
+10055395,1,AI-Socrates,line,1,1
+10055395,1,AI-Socrates,line,2,1
+10055395,1,AI-Socrates,helpful,,1
+10055395,1,AI-Socrates,line,7,0
+10055395,1,AI-Socrates,line,5,0
+10055395,1,AI-Socrates,line,6,0
+10055318,1,AI-Socrates,accurate,,1
+10055318,1,AI-Socrates,helpful,,1
+10055318,1,AI-Socrates,speed,,1
+10055318,1,AI-Socrates,line,1,1
+10055318,1,AI-Socrates,line,2,1
+10055318,1,AI-Socrates,line,3,1
+10055318,1,AI-Socrates,line,6,1
+10055318,1,AI-Socrates,line,7,1
+10055318,1,AI-Socrates,line,8,1
+10055318,1,AI-Socrates,line,9,1
+10055318,1,AI-Socrates,line,4,1
+10055318,1,AI-Socrates,line,5,1
+10054127,1,AI-Socrates,speed,,1
+10054127,1,AI-Socrates,line,1,1
+10054127,1,AI-Socrates,line,2,1
+10054127,1,AI-Socrates,accurate,,1
+10054127,1,AI-Socrates,helpful,,1
+10054127,1,AI-Socrates,line,5,1
+10054127,1,AI-Socrates,line,6,1
+10054127,1,AI-Socrates,line,3,1
+10054127,1,AI-Socrates,line,4,1
+10053690,1,AI-Socrates,accurate,,0
+10053690,1,AI-Socrates,helpful,,0
+10053690,1,AI-Socrates,speed,,1
+10053690,1,AI-Socrates,line,1,1
+10053690,1,AI-Socrates,line,4,0
+10053690,1,AI-Socrates,line,5,0
+10053690,1,AI-Socrates,line,6,0
+10053690,1,AI-Socrates,line,7,0
+10053690,1,AI-Socrates,line,8,0
+10053690,1,AI-Socrates,line,9,0
+10053690,1,AI-Socrates,line,10,0
+10053690,1,AI-Socrates,line,11,0
+10053690,1,AI-Socrates,line,12,0
+10053690,1,AI-Socrates,line,2,0
+10053690,1,AI-Socrates,line,3,0
+10052296,1,AI-Default,accurate,,1
+10052296,1,AI-Default,line,1,1
+10052296,1,AI-Default,line,2,1
+10052296,1,AI-Default,helpful,,1
+10052296,1,AI-Default,speed,,1
+10052296,1,AI-Default,line,5,1
+10052296,1,AI-Default,line,6,1
+10052296,1,AI-Default,line,7,0
+10052296,1,AI-Default,line,8,0
+10052296,1,AI-Default,line,3,1
+10052296,1,AI-Default,line,4,1
+10051276,1,AI-Default,line,2,1
+10051276,1,AI-Default,helpful,,1
+10051276,1,AI-Default,line,1,1
+10051276,1,AI-Default,accurate,,1
+10051276,1,AI-Default,speed,,1
+10051276,1,AI-Default,line,3,1
+10051276,1,AI-Default,line,4,1
+10049987,1,AI-Default,accurate,,1
+10049987,1,AI-Default,helpful,,1
+10049987,1,AI-Default,speed,,1
+10049987,1,AI-Default,line,1,1
+10049987,1,AI-Default,line,2,1
+10049987,1,AI-Default,line,3,1
+10049987,1,AI-Default,line,4,1
+10049934,1,AI-Socrates,accurate,,1
+10049934,1,AI-Socrates,line,1,1
+10049934,1,AI-Socrates,line,2,1
+10049934,1,AI-Socrates,line,3,1
+10049934,1,AI-Socrates,line,4,1
+10049934,1,AI-Socrates,line,5,1
+10049934,1,AI-Socrates,line,6,1
+10049934,1,AI-Socrates,line,7,1
+10049934,1,AI-Socrates,line,8,1
+10049934,1,AI-Socrates,line,9,1
+10049934,1,AI-Socrates,line,10,1
+10049934,1,AI-Socrates,line,11,1
+10049934,1,AI-Socrates,helpful,,1
+10049934,1,AI-Socrates,speed,,1
+10049570,1,AI-Socrates,accurate,,0
+10049570,1,AI-Socrates,helpful,,0
+10049570,1,AI-Socrates,speed,,1
+10049570,1,AI-Socrates,line,3,0
+10049570,1,AI-Socrates,line,4,0
+10049570,1,AI-Socrates,line,5,0
+10049570,1,AI-Socrates,line,6,0
+10049570,1,AI-Socrates,line,1,0
+10049570,1,AI-Socrates,line,2,0
+10047989,1,AI-Socrates,accurate,,0
+10047989,1,AI-Socrates,helpful,,0
+10047989,1,AI-Socrates,speed,,1
+10047989,1,AI-Socrates,line,3,0
+10047989,1,AI-Socrates,line,4,0
+10047989,1,AI-Socrates,line,5,0
+10047989,1,AI-Socrates,line,1,0
+10047989,1,AI-Socrates,line,2,0
+10049246,1,AI-Socrates,accurate,,1
+10049246,1,AI-Socrates,helpful,,1
+10049246,1,AI-Socrates,speed,,1
+10049246,1,AI-Socrates,line,2,1
+10049246,1,AI-Socrates,line,1,1
+10049246,1,AI-Socrates,line,5,1
+10049246,1,AI-Socrates,line,6,1
+10049246,1,AI-Socrates,line,7,1
+10049246,1,AI-Socrates,line,8,1
+10049246,1,AI-Socrates,line,3,1
+10049246,1,AI-Socrates,line,4,1
+10046660,1,AI-Default,accurate,,1
+10046660,1,AI-Default,line,1,1
+10046660,1,AI-Default,line,2,1
+10046660,1,AI-Default,line,3,1
+10046660,1,AI-Default,line,4,1
+10046660,1,AI-Default,helpful,,1
+10046660,1,AI-Default,speed,,1
+10044232,1,AI-Default,speed,,1
+10044232,1,AI-Default,line,1,0
+10044232,1,AI-Default,accurate,,0
+10044232,1,AI-Default,helpful,,0
+10044232,1,AI-Default,line,2,0
+10045425,1,AI-Socrates,accurate,,0
+10045425,1,AI-Socrates,helpful,,0
+10045425,1,AI-Socrates,speed,,1
+10045425,1,AI-Socrates,line,3,0
+10045425,1,AI-Socrates,line,4,0
+10045425,1,AI-Socrates,line,1,0
+10045425,1,AI-Socrates,line,2,0
+10045358,1,AI-Socrates,helpful,,0
+10045358,1,AI-Socrates,accurate,,1
+10045358,1,AI-Socrates,speed,,1
+10045358,1,AI-Socrates,line,1,1
+10045358,1,AI-Socrates,line,2,1
+10043442,1,AI-Socrates,accurate,,1
+10043442,1,AI-Socrates,helpful,,1
+10043442,1,AI-Socrates,speed,,1
+10043442,1,AI-Socrates,line,1,1
+10043442,1,AI-Socrates,line,4,1
+10043442,1,AI-Socrates,line,5,1
+10043442,1,AI-Socrates,line,6,1
+10043442,1,AI-Socrates,line,7,1
+10043442,1,AI-Socrates,line,8,1
+10043442,1,AI-Socrates,line,2,1
+10043442,1,AI-Socrates,line,3,1
